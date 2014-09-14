@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
-using CAMPDashboard.Code.Helpers;
+using <use helper class here>;
 using System.Web.Routing;
 
 namespace <ns>
